@@ -1,0 +1,11 @@
+/Users/mudassarraza/dogecoin-miner-rust-master/target/debug/deps/futures_task-443734d8804d7dab.rmeta: /Users/mudassarraza/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.8/src/lib.rs /Users/mudassarraza/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.8/src/spawn.rs /Users/mudassarraza/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.8/src/future_obj.rs /Users/mudassarraza/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.8/src/noop_waker.rs /Users/mudassarraza/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.8/src/arc_wake.rs /Users/mudassarraza/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.8/src/waker.rs /Users/mudassarraza/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.8/src/waker_ref.rs
+
+/Users/mudassarraza/dogecoin-miner-rust-master/target/debug/deps/futures_task-443734d8804d7dab.d: /Users/mudassarraza/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.8/src/lib.rs /Users/mudassarraza/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.8/src/spawn.rs /Users/mudassarraza/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.8/src/future_obj.rs /Users/mudassarraza/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.8/src/noop_waker.rs /Users/mudassarraza/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.8/src/arc_wake.rs /Users/mudassarraza/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.8/src/waker.rs /Users/mudassarraza/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.8/src/waker_ref.rs
+
+/Users/mudassarraza/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.8/src/lib.rs:
+/Users/mudassarraza/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.8/src/spawn.rs:
+/Users/mudassarraza/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.8/src/future_obj.rs:
+/Users/mudassarraza/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.8/src/noop_waker.rs:
+/Users/mudassarraza/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.8/src/arc_wake.rs:
+/Users/mudassarraza/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.8/src/waker.rs:
+/Users/mudassarraza/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.8/src/waker_ref.rs:

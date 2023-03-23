@@ -1,1 +1,1 @@
-# dogecoin-miner-rust-master
+# dogecoin-miner-rust
